@@ -1,0 +1,32 @@
+[1.774s] Invoking command in '/home/miguel/ament_ws/src/my_robot_controller': PYTHONPATH=/home/miguel/ament_ws/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/miguel/ament_ws/install/my_robot_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_robot_controller build --build-base /home/miguel/ament_ws/build/my_robot_controller/build install --record /home/miguel/ament_ws/build/my_robot_controller/install.log --single-version-externally-managed install_data
+[1.922s] running egg_info
+[1.923s] creating ../../build/my_robot_controller/my_robot_controller.egg-info
+[1.931s] writing ../../build/my_robot_controller/my_robot_controller.egg-info/PKG-INFO
+[1.931s] writing dependency_links to ../../build/my_robot_controller/my_robot_controller.egg-info/dependency_links.txt
+[1.931s] writing requirements to ../../build/my_robot_controller/my_robot_controller.egg-info/requires.txt
+[1.931s] writing top-level names to ../../build/my_robot_controller/my_robot_controller.egg-info/top_level.txt
+[1.931s] writing manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[1.951s] reading manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[1.952s] writing manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[1.952s] running build
+[1.952s] running build_py
+[1.952s] creating /home/miguel/ament_ws/build/my_robot_controller/build
+[1.953s] creating /home/miguel/ament_ws/build/my_robot_controller/build/lib
+[1.953s] creating /home/miguel/ament_ws/build/my_robot_controller/build/lib/my_robot_controller
+[1.953s] copying my_robot_controller/__init__.py -> /home/miguel/ament_ws/build/my_robot_controller/build/lib/my_robot_controller
+[1.954s] running install
+[1.957s] running install_lib
+[1.967s] creating /home/miguel/ament_ws/install/my_robot_controller/lib/python3.12/site-packages/my_robot_controller
+[1.967s] copying /home/miguel/ament_ws/build/my_robot_controller/build/lib/my_robot_controller/__init__.py -> /home/miguel/ament_ws/install/my_robot_controller/lib/python3.12/site-packages/my_robot_controller
+[1.968s] byte-compiling /home/miguel/ament_ws/install/my_robot_controller/lib/python3.12/site-packages/my_robot_controller/__init__.py to __init__.cpython-312.pyc
+[1.968s] running install_data
+[1.968s] creating /home/miguel/ament_ws/install/my_robot_controller/share/ament_index
+[1.968s] creating /home/miguel/ament_ws/install/my_robot_controller/share/ament_index/resource_index
+[1.968s] creating /home/miguel/ament_ws/install/my_robot_controller/share/ament_index/resource_index/packages
+[1.969s] copying resource/my_robot_controller -> /home/miguel/ament_ws/install/my_robot_controller/share/ament_index/resource_index/packages
+[1.969s] copying package.xml -> /home/miguel/ament_ws/install/my_robot_controller/share/my_robot_controller
+[1.969s] running install_egg_info
+[1.980s] Copying ../../build/my_robot_controller/my_robot_controller.egg-info to /home/miguel/ament_ws/install/my_robot_controller/lib/python3.12/site-packages/my_robot_controller-0.0.0-py3.12.egg-info
+[1.982s] running install_scripts
+[2.068s] writing list of installed files to '/home/miguel/ament_ws/build/my_robot_controller/install.log'
+[2.087s] Invoked command in '/home/miguel/ament_ws/src/my_robot_controller' returned '0': PYTHONPATH=/home/miguel/ament_ws/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/miguel/ament_ws/install/my_robot_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_robot_controller build --build-base /home/miguel/ament_ws/build/my_robot_controller/build install --record /home/miguel/ament_ws/build/my_robot_controller/install.log --single-version-externally-managed install_data
